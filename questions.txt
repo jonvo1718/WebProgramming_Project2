@@ -21,5 +21,5 @@ Who was the 23rd President of the United States of America?franklin delano roose
 What is called the result of a division operation?quotient,
 In computer science what is called the family of languages that are used to indicate how texts or other components should be displayed on a document?markup languages,
 What noun from the Latin augur is used in English to mean a foreteller diviner or seer?augur,
-The sum of angles in a triangle must all equal ___?180,
+The sum of angles in a triangle must all equal ___ degrees?180,
 Who's considered the "Black Moses"?harriet tubman,
