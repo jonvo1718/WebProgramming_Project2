@@ -1,0 +1,17 @@
+Boss.9999,
+
+
+Jon.7500,
+
+Paul.7500,
+
+
+S Marty.5500,
+
+
+Robbie Bob.3700,
+Guy.500,
+
+
+Farquad.0
+
